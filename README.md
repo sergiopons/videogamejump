@@ -14,7 +14,7 @@
 - JavaScript
 
     
-#### Link git pages.
+#### Link git pages:
 
 
 
