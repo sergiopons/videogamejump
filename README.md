@@ -9,7 +9,8 @@
  
 ### Cómo se juega:
 
-Simplemente debes saltar el rectángulo rojo antes de que llegue el cuadrado azul. Siéste llega a tocar al rectángulo rojo la partida termina.
+Simplemente debes saltar el cuadrado azul antes de que llegue al rectángulo rojo haciendo clic en el ratón. Si éste llega a tocar al rectángulo rojo la partida termina.
+Hay un contador de clics para saber cuántas veces has saltado.
 
 ### Tecnologías aplicadas:
 
